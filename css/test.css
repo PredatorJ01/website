@@ -1,21 +1,26 @@
 body{
-	background-color: pink;
+	background-color: black;
 }
 h1{
-	color: blue;
+	color: orange;
 	font-size: 90px;
 	text-decoration: underline;
 }
-h2{
-	font-size: 40px;
+p{
+	color: red;
+}
+p1{
+  color: pink;
+}	
+p2{
 	color: green;
 }
-.small{
-	font-size: 10px
+p3{
+	color: orange;
 }
-span{
-	font-style: italic;
+p4{
+	color: blue
 }
-h2 span{
-	text-decoration: line-through;
-}		
+p5{
+	color: red;
+}
