@@ -1,0 +1,19 @@
+header{
+	background-color: #630a0f;
+	padding: 40px;
+	text-align: center;
+}
+h1{
+	font-size: 90px;
+	color: white;
+}
+header img{
+	border-radius: 150px;
+	width: 800px;
+	border: 10px solid #000000;
+}
+
+/*<header>
+		<img src="img/profile.jpg">
+		<h1>MattyBoy84</h1>
+	</header>*/
