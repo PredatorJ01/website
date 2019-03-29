@@ -12,7 +12,14 @@ header img{
 	width: 800px;
 	border: 10px solid #000000;
 }
-
+h2{
+	font-size: 50px
+}
+div {
+	background-color: #630a0f;
+	color:white;
+	text-align: center;
+}
 /*<header>
 		<img src="img/profile.jpg">
 		<h1>MattyBoy84</h1>
