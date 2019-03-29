@@ -1,3 +1,7 @@
+html, body{
+	font-family: Arial,sans-serif;
+	margin: 0;
+}
 header{
 	background-color: #630a0f;
 	padding: 40px;
@@ -12,13 +16,37 @@ header img{
 	width: 800px;
 	border: 10px solid #000000;
 }
-h2{
-	font-size: 50px
+.content{
+	max-width: 900px;
+	margin: 0 auto;
 }
-div {
-	background-color: #630a0f;
-	color:white;
+img.big-image{
+	max-width: 100%
+	margin: 0 auto;
+	padding: 0 20px;
+	
+
+}
+p.caption{
+	font-size: 16px;
+	color: lightgrey;
+	font-style: italic;
+}
+footer ul{
+	list-style: none;
+	margin: 0 auto;
+	padding: 0;
 	text-align: center;
+
+}
+footer{
+	margin-top: 20px;
+	padding: 40px 20px;
+	background-color: #635958;
+}
+footer ul li{
+	display: inline-block;
+	max-width: 0 5px;
 }
 /*<header>
 		<img src="img/profile.jpg">
